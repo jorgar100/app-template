@@ -1,0 +1,9 @@
+# backend/requirements.txt
+django
+djangorestframework
+mysqlclient
+django-cors-headers
+
+# Authentication & Security
+djangorestframework-simplejwt 
+python-dotenv               
