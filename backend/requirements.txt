@@ -1,5 +1,5 @@
 # backend/requirements.txt
-django
+django~=3.2.0
 djangorestframework
 mysqlclient
 django-cors-headers
